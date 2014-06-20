@@ -1,0 +1,27 @@
+{
+	"name": "ingot-spoke",
+	"description": "A worker service for the Ingot automation platform",
+	"keywords": [
+		"ingot"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Appcelerator, Inc.",
+		"email": "npmjs@appcelerator.com"
+	},
+	"maintainers": [
+		{"name": "Chris Barber", "email": "cbarber@appcelerator.com"}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/appcelerator/ingot-spoke.git"
+	},
+	"dependencies": {
+		"request": "~2.36.0"
+	},
+	"license": "Apache Public License v2",
+	"main": "./index",
+	"engines": {
+		"node": ">=0.8"
+	}
+}
