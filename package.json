@@ -4,7 +4,7 @@
 	"keywords": [
 		"ingot"
 	],
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"ingot": {
 		"type": "service",
 		"api": "1.0"
